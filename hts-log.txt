@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Nov 2022 23:51:41 at https://rubycassino.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://rubycassino.com/
+(winhttrack -qwC2%P%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rubycassino.com/ -O1 "C:\Users\Erik\Desktop\cassino" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://rubycassino.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:51:58	Warning: 	Link https://rubycassino.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:51:58	Error: 	"Not Found" (404) at link https://rubycassino.com/chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js (from https://rubycassino.com/)
+23:51:58	Error: 	"Not Found" (404) at link https://rubycassino.com/img/icons/chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js (from https://rubycassino.com/img/icons/pix.svg)
+23:51:58	Error: 	"Not Found" (404) at link https://rubycassino.com/favicon.png (from https://rubycassino.com/terms)
+23:51:58	Error: 	"Not Found" (404) at link https://rubycassino.com/css/style.css (from https://rubycassino.com/terms)
+23:51:58	Error: 	"Not Found" (404) at link https://rubycassino.com/css/vaminshost.css (from https://rubycassino.com/terms)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 49 links scanned, 43 files written (2871474 bytes overall) [1241123 bytes received at 73007 bytes/sec], 2244490 bytes transferred using HTTP compression in 43 files, ratio 25%, 8.1 requests per connection
+(5 errors, 1 warnings, 0 messages)
